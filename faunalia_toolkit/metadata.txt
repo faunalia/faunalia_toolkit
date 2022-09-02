@@ -1,0 +1,25 @@
+[general]
+name=Faunalia Toolkit
+about=Faunalia Toolkit plugin for spatial analysis
+category=Vector
+hasProcessingProvider=yes
+description=Faunalia Toolkit plugin for spatial analysis
+icon=resources/images/default_icon.png
+tags=metoe, spatial, analysis, faunalia
+
+# credits and contact
+author=Matteo Ghetta
+email=info@faunalia.eu
+homepage=None
+repository=https://github.com/faunalia/faunalia_toolkit
+tracker=None
+
+# experimental flag
+deprecated=False
+experimental=True
+qgisMinimumVersion=3.22
+qgisMaximumVersion=3.99
+
+# versionnement
+version=0.1.0
+changelog=
